@@ -34,8 +34,7 @@ Currently an intern at X-workZ, where I’m learning Java to develop clean, effi
 
 🔥 GitHub Stats
 
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananya6projects&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ananya6projects&theme=radical)
+![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananya6projects&show_icons=true&theme=radical)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ananya6projects&theme=radical)
 
 
 ---
