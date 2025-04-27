@@ -1,6 +1,6 @@
  <h2 align="center"><strong>Hey, I'm Ananya V! 👋</strong></h2>
 
-Currently an intern at X-workZ, where I’m learning Java to develop clean, efficient applications. I enjoy solving problems, writing readable code, and creating reliable solutions. Passionate about creating impactful software solutions and continuously improving my coding skills.
+Currently an intern at X-workZ, where I’m learning Java to develop clean, efficient applications. I enjoy solving problems, writing readable code, and creating reliable solutions. Passionate about creating impactful software solutions and continuously improving my coding skills
 
 ---
 
