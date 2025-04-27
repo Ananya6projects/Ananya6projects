@@ -37,8 +37,10 @@ Currently an intern at X-workZ, where I’m learning Java to develop clean, effi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ananya6projects&show_icons=true&theme=radical" height="200" />
 </p>
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Ananya6projects&theme=radical&hide_border=false&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia/Kolkata" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ananya6projects&theme=radical&hide_border=false&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia/Kolkata" alt="GitHub Streak"/>
 </p>
+
 
 
 ---
